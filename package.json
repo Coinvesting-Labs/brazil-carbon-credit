@@ -1,0 +1,27 @@
+{
+  "name": "brazil-carbon-credit",
+  "version": "1.0.0",
+  "description": "BEP-20 token backed by Carbon Credits. More information available at: https://brzco2.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coinvesting-Labs/brazil-carbon-credit.git"
+  },
+  "keywords": [
+    "Credit",
+    "Carbon",
+    "token",
+    "BEP-20"
+  ],
+  "author": "Coinvesting Labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Coinvesting-Labs/brazil-carbon-credit/issues"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "4.4.0"
+  }
+}
